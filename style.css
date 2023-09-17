@@ -442,15 +442,15 @@ body {
   }
   
   .contact_items .item .img-box.box-1 {
-    background-image: url(../images/location.png);
+    background-image: url(location.png);
   }
   
   .contact_items .item .img-box.box-2 {
-    background-image: url(../images/telephone.png);
+    background-image: url(telephone.png);
   }
   
   .contact_items .item .img-box.box-3 {
-    background-image: url(../images/envelope.png);
+    background-image: url(envelope.png);
   }
  
   
