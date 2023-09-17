@@ -290,7 +290,7 @@ body {
   }
   
   .slider_section .carousel-control-prev {
-    background-image: url(../images/prev.png);
+    background-image: url(prev.png);
     background-color: #ffffff;
     top: 50%;
     -webkit-transform: translate(-50%, 0);
@@ -298,7 +298,7 @@ body {
   }
   
   .slider_section .carousel-control-next {
-    background-image: url(../images/next.png);
+    background-image: url(next.png);
     background-color: #2e02fe;
     top: calc(50% - 30px);
     -webkit-transform: translate(0, -50%);
